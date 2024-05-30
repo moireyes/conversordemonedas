@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fcbdb37a-4f0f-4164-8bf1-08691e8d0d88" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conversordemonedas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cursos/conversordemonedas/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cursos/conversordemonedas/ConsultaMoneda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cursos/conversordemonedas/Par.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conversordemonedas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/conversordemonedas.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cursos/conversordemonedas/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cursos/conversordemonedas/Principal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Record" />
       </list>
     </option>
   </component>
@@ -43,7 +42,10 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/DELL LATITUDE/Downloads/Oracle ONE/DEV BackEnd/Java/conversordemonedas&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DELL LATITUDE/Downloads/Oracle ONE/DEV BackEnd/Java/gson-2.10.1.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
